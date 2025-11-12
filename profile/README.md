@@ -1,19 +1,7 @@
 # Anything at Lothlórien
 
-This is the README. Allegedly.
+In the veiled light of elder days, this craft was kindled.  
+No mortal design guides its making, nor age defines its purpose.  
 
-There were plans. Grand ones. Diagrams. Maybe even a roadmap.
-
-Then reality happened.
-
-So here's what we have for now:
-
-- This exists.
-- It's probably doing something cool.
-- We’ll explain eventually. Probably. Maybe.
-- If you’re reading this, congrats — you’re early.
-
-Updates? Sure. When the stars align or someone gets inspired at 2 P.M.
-
-Until then, poke around. Or don’t. It’s fine.
-
+It breathes in silence, beneath bough and star alike.  
+Those who find it — remember: even code may dream.
